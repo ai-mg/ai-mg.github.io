@@ -60,5 +60,3 @@ Research-oriented professional with over 4 years of experience in scientific res
 - 5th Asia Pacific Solar Physics Meeting, Pune
 - 37th Meeting of Astronomical Society of India, Bengaluru
 ```
-
-Please replace `(publication-link)` with actual URLs to your publications if available online, and `link-to-your-image-if-any` with a URL to your professional photo if you wish to include one.
