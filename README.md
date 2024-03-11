@@ -5,8 +5,7 @@
 
 Location: Theodor-Körner-Straße 151/12, Graz  
 Email: [apmanugupta@gmail.com](mailto:apmanugupta@gmail.com)  
-Website: https://hackmd.io/@m-g
-
+Website: https://hackmd.io/@m-g  
 Phone: +43 67763410265  
 Date of Birth: 11.08.1996  
 Nationality: Indian
