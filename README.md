@@ -1,7 +1,7 @@
 
 # Manu Gupta, MSc
 
-![Manu Gupta](https://drive.google.com/file/d/1kYjHvKRUEXs3jOUa6Ml_Oxt4JKBZS20r/view?usp=sharing)
+![image](https://github.com/ai-mg/ai-mg.github.io/assets/43701330/1dc273e4-9721-47df-aee4-0259b2c6fd35)
 
 Location: Theodor-Körner-Straße 151/12, Graz  
 Email: [apmanugupta@gmail.com](mailto:apmanugupta@gmail.com)  
