@@ -1,7 +1,7 @@
 
 # Manu Gupta, MSc
 
-![image](https://github.com/ai-mg/ai-mg.github.io/assets/43701330/94685d94-8023-4746-a44a-3811ee5707e4)
+<img src="https://github.com/ai-mg/ai-mg.github.io/assets/43701330/39db6b32-2900-42dc-8090-9dc5eb5dfb8e" alt="drawing" width="200"/>
 
 
 Location: Theodor-Körner-Straße 151/12, Graz  
