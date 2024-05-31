@@ -3,14 +3,14 @@
 
 <img src="https://github.com/ai-mg/ai-mg.github.io/assets/43701330/39db6b32-2900-42dc-8090-9dc5eb5dfb8e" alt="drawing" width="200"/>
 
-
-Location: Theodor-Körner-Straße 151/12, Graz  
 Email: [apmanugupta@gmail.com](mailto:apmanugupta@gmail.com)  
 Website: [https://hackmd.io/@m-g](https://hackmd.io/@m-g)  
+<!-- 
+Location: Theodor-Körner-Straße 151/12, Graz  
 Phone: +43 67763410265  
 Date of Birth: 11.08.1996  
 Nationality: Indian
-
+-->
 ## Professional Summary
 
 Research-oriented professional with over 4 years of experience in scientific research, with a solid foundation in numerical modeling, data analysis, and a proven ability to work collaboratively with diverse teams. Skilled in scientific and technical writing and adept in communication and problem-solving.
