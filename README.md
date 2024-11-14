@@ -1,64 +1,102 @@
+<p align="center">
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manu Gupta</h1>
+  <h3 align="center">Astrophysicist | AI Enthusiast | Data Scientist | Full Stack Developer</h3>
+</p>
 
-# Manu Gupta, MSc
+<p align="center">
+  <a href="https://www.linkedin.com/in/apmanugupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ai-mg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:apmanugupta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<img src="https://github.com/ai-mg/ai-mg.github.io/assets/43701330/39db6b32-2900-42dc-8090-9dc5eb5dfb8e" alt="drawing" width="200"/>
+## 🚀 About Me
 
-Email: [apmanugupta@gmail.com](mailto:apmanugupta@gmail.com)  
-Website: [https://hackmd.io/@m-g](https://hackmd.io/@m-g)  
-<!-- 
-Location: Theodor-Körner-Straße 151/12, Graz  
-Phone: +43 67763410265  
-Date of Birth: 11.08.1996  
-Nationality: Indian
--->
-## Professional Summary
+I'm a passionate researcher and developer with a PhD in Astrophysics and currently pursuing a Master's in AI. My journey spans from studying solar flares to developing AI-powered applications. I love tackling complex problems and creating innovative solutions that make a difference.
 
-Research-oriented professional with over 4 years of experience in scientific research, with a solid foundation in numerical modeling, data analysis, and a proven ability to work collaboratively with diverse teams. Skilled in scientific and technical writing and adept in communication and problem-solving.
+- 🔭 Currently working on: [Mnemonics](https://mnemonics.pages.dev/) - An AI-powered German learning platform
+- 🌱 Learning: Advanced AI/ML techniques at Johannes Kepler University
+- 👨‍🏫 Teaching: Data Analysis and Python Programming at FH JOANNEUM
+- 📝 Blogging about: Data Science and Machine Learning on [HackMD](https://hackmd.io/@m-g)
 
-## Key Skills
+## 🛠️ Technical Stack
 
-- **Programming Languages**: Python (Numpy, Scipy, Pandas, OpenCV, Matplotlib, Seaborn), C, Fortran, MATLAB
-- **Tools & Technologies**: AutoCAD, BASH, Open MPI, MPI
-- **Areas of Expertise**: Computational Modeling, Data Analysis, Database Management (MySQL)
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FORTRAN](https://img.shields.io/badge/FORTRAN-734F96?style=flat-square&logo=fortran&logoColor=white)
 
-## Professional Experience
+### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-- **Lecturer of Exercise Course on Computational Basics with Python**, Institute of Environmental Systems Sciences, University of Graz, Austria (October 2023 - January 2024)
-- **Scientific Project Staff**, University of Graz, Austria (October 2019 - September 2022)
-  - Developed a Python package for analyzing solar active regions and tested solar atmosphere computational models in C. Utilized BASH and SGE scripts for parallel processing and data analysis.
+### Web Development
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcn&logoColor=white)
 
-## Projects
+## 🎯 Featured Projects
 
-- **Mnemonic Website for German Vocabulary**, Johannes Kepler University Linz, Austria (February 2024 - present)
-  - An innovative website that generates mnemonic sentences and pictures to facilitate German vocabulary learning, powered by Gemini and ChatGPT AI.
-- **Magnetic Helicity Modeling in Solar Flares**, Institute of Physics, University of Graz, Austria (October 2019 - September 2023)
-  - Developed computational models to study the physics behind solar flares, using C programming and Python for data analysis and visualization.
+### 1. [Mnemonics](https://mnemonics.pages.dev/) 
+- AI-powered German vocabulary learning platform
+- Tech Stack: Svelte, Shadcn UI, Claude API, SQL
+- Features: Automatic mnemonic generation, personalized learning paths
 
-## Education
+### 2. Solar Flare Analysis Package
+- Python package for analyzing solar active regions
+- Used by researchers worldwide for solar physics research
+- Published in Astronomy & Astrophysics journal
 
-- **Master in Artificial Intelligence**, Johannes Kepler University Linz (March 2024 - 2026)
-- **PhD in Astrophysics**, University of Graz (October 2019 - March 2024)
-- **Master of Space Physics**, Indian Institute of Science Education & Research, Kolkata (2017 - 2019)
-- **Bachelor of Technology in Mechanical Engineering**, Dr. A. P. J. Abdul Kalam Technical University, Lucknow (2013 - 2017)
+### 3. NLFFF Model for Solar Atmosphere
+- Parallel computational model in FORTRAN
+- Processes NASA/ESA space mission data
+- Contributed to 4 peer-reviewed publications
 
-## Languages
+## 📚 Publications
 
-- English (C2), PTE Academic score: 80
-- German (A2), OIF certificate
-- Hindi (Native)
+1. "Deducing the reliability of relative helicities from nonlinear force-free coronal models"
+2. "Magnetic helicity and energy budget around large confined and eruptive solar flares"
+3. "The effect of spatial resolution on magnetic field modeling and helicity computation"
+4. "Stability of the coronal magnetic field around large confined and eruptive solar flares"
 
-## Publications
+## 🎓 Education
 
-- [Stability of the coronal magnetic field around large confined and eruptive solar flares](https://doi.org/10.48550/arXiv.2402.12254)
-- [The effect of spatial resolution on magnetic field modeling and helicity computation](https://doi.org/10.1051/0004-6361/202243222)
-- [Magnetic helicity and energy budget around large confined and eruptive solar flares](https://arxiv.org/abs/2106.08781)
-- [Deducing the reliability of relative helicities from nonlinear force-free coronal models](https://doi.org/10.1051/0004-6361/202038921)
+- **PhD in Astrophysics** (2024) - University of Graz, Austria
+- **MSc in Artificial Intelligence** (Ongoing) - Johannes Kepler University, Austria
+- **MSc in Space Physics** (2019) - IISER Kolkata, India
 
-## Talks and Poster Presentations
+## 🏆 Achievements
 
-- 44th COSPAR Assembly 2022, Athens
-- 17th European Space Weather Week, Glasgow
-- European Space Weather Symposium (Online)
-- 5th Asia Pacific Solar Physics Meeting, Pune
-- 37th Meeting of Astronomical Society of India, Bengaluru
-```
+- PhD passed with distinction (Grade: 1)
+- Achieved 70% reduction in data processing time through parallel computing
+- PTE Academic Score: 80
+- GRE Score: 318
+
+## 💡 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+1. [Making Complex ML Concepts Simple](https://hackmd.io/@m-g)
+2. [Journey from Astrophysics to AI](https://hackmd.io/@m-g)
+<!-- BLOG-POST-LIST:END -->
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-mg&show_icons=true&theme=radical)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ai-mg" alt="Profile views"/>
+</p>
