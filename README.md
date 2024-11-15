@@ -1,7 +1,55 @@
+<div align="center">
+  <svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @keyframes float {
+        from { transform: translateX(800px); }
+        to { transform: translateX(-800px); }
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 1; }
+      }
+      .star {
+        animation: twinkle 3s infinite;
+      }
+      .star-group {
+        animation: float 20s linear infinite;
+      }
+      .star:nth-child(2n) {
+        animation-delay: 0.5s;
+      }
+      .star:nth-child(3n) {
+        animation-delay: 1s;
+      }
+    </style>
+    <rect width="100%" height="100%" fill="#0d1117"/>
+    <g class="star-group">
+      <!-- Multiple layers of stars -->
+      <circle class="star" cx="50" cy="50" r="1" fill="white"/>
+      <circle class="star" cx="150" cy="30" r="1.5" fill="white"/>
+      <circle class="star" cx="250" cy="70" r="1" fill="white"/>
+      <circle class="star" cx="350" cy="40" r="1.2" fill="white"/>
+      <circle class="star" cx="450" cy="90" r="1" fill="white"/>
+      <circle class="star" cx="550" cy="20" r="1.5" fill="white"/>
+      <circle class="star" cx="650" cy="60" r="1" fill="white"/>
+      <circle class="star" cx="750" cy="80" r="1.2" fill="white"/>
+      <!-- Second layer -->
+      <circle class="star" cx="100" cy="100" r="1" fill="white"/>
+      <circle class="star" cx="200" cy="60" r="1.3" fill="white"/>
+      <circle class="star" cx="300" cy="110" r="1" fill="white"/>
+      <circle class="star" cx="400" cy="70" r="1.4" fill="white"/>
+      <circle class="star" cx="500" cy="120" r="1" fill="white"/>
+      <circle class="star" cx="600" cy="40" r="1.2" fill="white"/>
+      <circle class="star" cx="700" cy="90" r="1" fill="white"/>
+    </g>
+  </svg>
+</div>
+
 <p align="center">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manu Gupta</h1>
-  <h3 align="center">AI Engineer | Data Scientist | Full Stack Developer</h3>
+  <h3 align="center">Full Stack Developer | AI Engineer | Data Scientist</h3>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/apmanugupta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,10 +63,6 @@
   <a href="mailto:apmanugupta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ai-mg" alt="Profile views"/>
 </p>
 
 ## 🚀 About Me
@@ -145,8 +189,9 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-mg&show_icons=true&theme=radical)
 
----
+--- -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ai-mg" alt="Profile views"/>
-</p> -->
+</p>
+
