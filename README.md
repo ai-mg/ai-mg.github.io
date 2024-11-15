@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manu Gupta</h1>
-  <h3 align="center">Full Stack Developer | AI Engineer | Data Scientist</h3>
+  <h3 align="center">AI Engineer | Data Scientist | Full Stack Developer</h3>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/apmanugupta" target="_blank">
