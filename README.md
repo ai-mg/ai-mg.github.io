@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I specialize in developing end-to-end applications that combine robust backend systems with intuitive frontend experiences.
+AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I love tackling complex problems and creating innovative solutions that make a difference.
 
 - 📖 Currently working on: [WortWizard](https://mnemonics.pages.dev/) with [Keith](https://github.com/zan-keith) - An AI-powered language learning platform
 - 🤖 Pursuing: Master's in AI at Johannes Kepler University
@@ -83,7 +83,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 
 ### 3. Nonlinear Force-Free (NLFF) Field Model for Solar Atmosphere
 - Developed an NLFF parallel computational model in FORTRAN to simulate the 3D magnetic field in solar atmosphere
-- Processed and visualized data space observation and simulation data using Python and MATLAB
+- Processed and visualized data from observations on Sun and simulation using Python and MATLAB
 
 <!-- ## 🎓 Education
 
@@ -117,7 +117,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 
 ## 📚 Publications
 
-1. [Magnetic helicity and energy budget around large confined and eruptive solar flares]((https://doi.org/10.1051/0004-6361/202140591))
+1. [Magnetic helicity and energy budget around large confined and eruptive solar flares](https://doi.org/10.1051/0004-6361/202140591)
 2. [The effect of spatial resolution on magnetic field modeling and helicity computation](https://doi.org/10.1051/0004-6361/202243222)
 3. [Stability of the coronal magnetic field around large confined and eruptive solar flares](https://doi.org/10.1051/0004-6361/202346212)
 4. [Deducing the reliability of relative helicities from nonlinear force-free coronal models](https://doi.org/10.1051/0004-6361/202038921)
