@@ -1,50 +1,82 @@
 <div align="center">
-  <svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
     <style>
-      @keyframes float {
-        from { transform: translateX(800px); }
-        to { transform: translateX(-800px); }
+      @keyframes introZoom {
+        0% { 
+          transform: scale(0.1);
+          opacity: 0;
+        }
+        50% { 
+          transform: scale(1.2);
+          opacity: 1;
+        }
+        100% { 
+          transform: scale(1);
+          opacity: 0;
+        }
       }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.2; }
-        50% { opacity: 1; }
+      @keyframes starfield {
+        0% { 
+          opacity: 0;
+          transform: scale(0.5);
+        }
+        50% { 
+          opacity: 1;
+          transform: scale(1);
+        }
+        100% { 
+          opacity: 0;
+          transform: scale(1.5);
+        }
       }
-      .star {
-        animation: twinkle 3s infinite;
+      .intro-text {
+        animation: introZoom 4s ease-in-out forwards;
+        font-family: monospace;
       }
-      .star-group {
-        animation: float 20s linear infinite;
+      .starfield {
+        animation: starfield 4s ease-in-out forwards;
       }
-      .star:nth-child(2n) {
-        animation-delay: 0.5s;
+      .animation-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #0d1117;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        animation: fadeOut 4s forwards;
       }
-      .star:nth-child(3n) {
-        animation-delay: 1s;
+      @keyframes fadeOut {
+        0%, 80% { opacity: 1; }
+        100% { opacity: 0; visibility: hidden; }
       }
     </style>
-    <rect width="100%" height="100%" fill="#0d1117"/>
-    <g class="star-group">
-      <!-- Multiple layers of stars -->
-      <circle class="star" cx="50" cy="50" r="1" fill="white"/>
-      <circle class="star" cx="150" cy="30" r="1.5" fill="white"/>
-      <circle class="star" cx="250" cy="70" r="1" fill="white"/>
-      <circle class="star" cx="350" cy="40" r="1.2" fill="white"/>
-      <circle class="star" cx="450" cy="90" r="1" fill="white"/>
-      <circle class="star" cx="550" cy="20" r="1.5" fill="white"/>
-      <circle class="star" cx="650" cy="60" r="1" fill="white"/>
-      <circle class="star" cx="750" cy="80" r="1.2" fill="white"/>
-      <!-- Second layer -->
-      <circle class="star" cx="100" cy="100" r="1" fill="white"/>
-      <circle class="star" cx="200" cy="60" r="1.3" fill="white"/>
-      <circle class="star" cx="300" cy="110" r="1" fill="white"/>
-      <circle class="star" cx="400" cy="70" r="1.4" fill="white"/>
-      <circle class="star" cx="500" cy="120" r="1" fill="white"/>
-      <circle class="star" cx="600" cy="40" r="1.2" fill="white"/>
-      <circle class="star" cx="700" cy="90" r="1" fill="white"/>
+    <defs>
+      <radialGradient id="star-gradient">
+        <stop offset="0%" stop-color="white"/>
+        <stop offset="100%" stop-color="#0d1117"/>
+      </radialGradient>
+    </defs>
+    <!-- Background stars -->
+    <g class="starfield">
+      <circle cx="400" cy="150" r="200" fill="url(#star-gradient)" opacity="0.1"/>
+      <circle cx="400" cy="150" r="150" fill="url(#star-gradient)" opacity="0.2"/>
+      <circle cx="400" cy="150" r="100" fill="url(#star-gradient)" opacity="0.3"/>
+    </g>
+    <!-- Main text -->
+    <g class="intro-text">
+      <text x="400" y="130" text-anchor="middle" fill="#61dafb" font-size="40">
+        Hello World
+      </text>
+      <text x="400" y="180" text-anchor="middle" fill="#ffffff" font-size="24">
+        Welcome to my digital universe
+      </text>
     </g>
   </svg>
 </div>
-
+<!-- Rest of your profile starts here -->
 <p align="center">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manu Gupta</h1>
   <h3 align="center">Full Stack Developer | AI Engineer | Data Scientist</h3>
