@@ -17,6 +17,10 @@
   </a>
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ai-mg" alt="Profile views"/>
+</p>
+
 ## 🚀 About Me
 
 AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I love tackling complex problems and creating innovative solutions that make a difference.
@@ -108,12 +112,6 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 <!--## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-mg&show_icons=true&theme=radical) -->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ai-mg" alt="Profile views"/>
-</p>
 
 ## 📚 Publications
 
