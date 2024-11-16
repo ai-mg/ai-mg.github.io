@@ -75,7 +75,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
   - Responsive UI with modern design
   - Claude API integration
 
-### 2. Solar Flare Modeling
+### 2. [Solar Flare Modeling](https://github.com/ai-mg/stability_analysis)
 - Studied the Physics behind solar flares through 3D computational modeling in C and Python.
 - Conducted in-depth analysis using NASA/ESA space mission data on the Sun
 - Implemented parallel computing techniques using BASH and SGE scripts
