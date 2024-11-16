@@ -104,6 +104,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 3. Machine Learning [Supervised](https://hackmd.io/@m-g/supervised_learning) and [Unsupervised](https://hackmd.io/@m-g/UL)
 4. [LSTM and Recurrent Neural Networks](https://hackmd.io/@m-g/RNN)
 5. [Recommender Systems](https://hackmd.io/@m-g/SJUjrN_LR)
+6. [Creating Python Packages on GitHub: A Practical Guide](https://github.com/ai-mg/create_your_own_python_package)
 <!-- BLOG-POST-LIST:END -->
 
 <!--## 📊 GitHub Stats
