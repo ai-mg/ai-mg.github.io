@@ -78,7 +78,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 ### 2. Solar Flare Modeling
 - Studied the Physics behind solar flares through 3D computational modeling in C and Python.
 - Conducted in-depth analysis using NASA/ESA space mission data on the Sun
-- Achieved 70% reduction in processing time
+- Implemented parallel computing techniques using BASH and SGE scripts
 - **Tech Stack:** C, C shell, BASH, Python, NumPy, Scipy, Pandas, OpenCV, Scikit-image, Parallel Computing
 - Publications: [Paper 1](https://doi.org/10.1051/0004-6361/202140591), [Paper 2](https://doi.org/10.1051/0004-6361/202243222), [Paper 3](https://doi.org/10.1051/0004-6361/202346212)
 
