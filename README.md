@@ -22,7 +22,7 @@
 
 AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I love tackling complex problems and creating innovative solutions that make a difference.
 
-- 📖 Currently working on: [WortWizard](https://mnemonics.pages.dev/) with [Keith](https://github.com/zan-keith) - An AI-powered language learning platform
+- 📖 Currently working on: [WortWizard](https://wortwizard.org/) with [Keith](https://github.com/zan-keith) - An AI-powered language learning platform
 - 🤖 Pursuing: Master's in AI at Johannes Kepler University
 - 👨‍🏫 Teaching: Data Analysis at FH JOANNEUM Graz
 - 📝 Writing about: Data Science and Machine Learning on [HackMD](https://hackmd.io/@m-g), [GitHub](https://github.com/ai-mg/Data-Analysis-Tutorials-Python-Jupyter)
@@ -66,7 +66,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 
 ## 🎯 Featured Projects
 
-### 1. [WortWizard](https://mnemonics.pages.dev/) 
+### 1. [WortWizard](https://wortwizard.org/)
 - AI-powered language learning platform
 - **Tech Stack:** Svelte, Shadcn UI, Tailwind CSS, Claude API, SQL
 - **Features:** 
