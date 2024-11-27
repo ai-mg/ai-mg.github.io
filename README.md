@@ -24,7 +24,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 
 - 📖 Currently working on: [WortWizard](https://wortwizard.org/) with [Keith](https://github.com/zan-keith) - An AI-powered language learning platform
 - 🤖 Pursuing: Master's in AI at Johannes Kepler University
-- 👨‍🏫 Teaching: Data Analysis at FH JOANNEUM Graz
+- 👨‍🏫 Teaching: [Data Analysis](https://github.com/ai-mg/Data-Analysis-Tutorials-Python-Jupyter) at FH JOANNEUM Graz
 - 📝 Writing about: Data Science and Machine Learning on [HackMD](https://hackmd.io/@m-g), [GitHub](https://github.com/ai-mg/Data-Analysis-Tutorials-Python-Jupyter)
 - 🎯 Focus areas: Machine Learning, Data Science, Full Stack Development
 
